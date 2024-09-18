@@ -1,0 +1,15 @@
+portfolio/
+│
+├── index.html
+├── about.html
+├── projects.html
+├── contact.html
+│
+├── styles/
+│   ├── main.css
+│   ├── about.css
+│   ├── projects.css
+│   └── contact.css
+│
+└── scripts/
+    └── main.js
